@@ -14,12 +14,12 @@
 <picture>
   <!-- Modo Escuro para GitHub Stats -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muryyyy&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=Muryyyy&show_icons=true&theme=gotham"
     media="(prefers-color-scheme: dark)"
   />
   <!-- Modo Claro para GitHub Stats -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muryyyy&show_icons=true&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api?username=Muryyyy&show_icons=true&theme=gotham"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <!-- Fallback para GitHub Stats -->
@@ -30,12 +30,12 @@
 <picture>
   <!-- Modo Escuro para Top Languages -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Muryyyy&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Muryyyy&theme=gotham"
     media="(prefers-color-scheme: dark)"
   />
   <!-- Modo Claro para Top Languages -->
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Muryyyy&theme=tokyonight"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Muryyyy&theme=gotham"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <!-- Fallback para Top Languages -->
