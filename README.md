@@ -15,7 +15,7 @@
   <!-- Modo Escuro para GitHub Stats -->
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Muryyyy&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: tokyonight)"
+    media="(prefers-color-scheme: dark)"
   />
   <!-- Modo Claro para GitHub Stats -->
   <source
